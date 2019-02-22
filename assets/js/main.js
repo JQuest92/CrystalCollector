@@ -50,7 +50,7 @@ $(document).ready(function() {
                                         wins++;
                                         scrUpdate();
                                         ttlScore = 0;
-                                        randonmize();
+                                        randomize();
                                 }
                                 else if(ttlScore > randmNum)
                                 {
